@@ -47,7 +47,7 @@ You will get an output like this:
 Stepsize algorithms take-home exercise
 
 VERSION
-  battleship/1.0.0 darwin-x64 node-v10.4.1
+  battleship/1.1.0 darwin-x64 node-v10.4.1
 
 USAGE
   $ battleship [COMMAND]
@@ -208,7 +208,7 @@ Round's continue until the player has sunk all of the enemy's ships or the enemy
 
 ---
 
-To play a game you need to write a function that returns an array of 2 integers that represent coordinates on the board to attack. Design a strategy to find and sink all the enemy's ships before they sink yours. Write this function in `task2.js`;
+To play a game you need to write a function that returns an array of 2 integers that represent coordinates on the board to attack. Your enemy will be playing with a randomly generated game board. Design a strategy to find and sink all the enemy's ships before they sink yours. Write this function in `task2.js`;
 
 The file has an empty function included for you to write your implementation the function accepts 3 arguments. These arguments provide useful data for you to inform your guesses.
 
