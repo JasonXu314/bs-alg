@@ -15,6 +15,7 @@ There are 3 tasks to complete in this exercise, the goal is to build the core co
 - [Stepsize Algorithms Exercise](#stepsize-algorithms-exercise)
   - [Table of Contents](#table-of-contents)
   - [Getting Started](#getting-started)
+    - [Assesment](#assesment)
   - [Task 1 - 2D Array Manipulation](#task-1---2d-array-manipulation)
   - [Task 2 - Lets Play!](#task-2---lets-play)
     - [Example Game](#example-game)
@@ -62,6 +63,14 @@ COMMANDS
 Included are also two boilerplate files for your functions to be written in. These are `task1.js` and `task2.js`.
 
 Once you have a copy of the repository and have confirmed that the binary is working for you, you're ready to get started with your mission!
+
+### Assesment
+
+These are the areas your work will be assesed on.
+
+* Code Structure
+* Problem Solving
+* Written Communication
 
 ## Task 1 - 2D Array Manipulation
 
